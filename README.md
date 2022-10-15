@@ -3,6 +3,8 @@ In this repository, I assess the global temperature anomaly using NASA's space s
 
 Link to blog: https://medium.com/towards-data-science/assessing-global-temperature-anomaly-using-nasas-space-studies-part-i-a4c0c4b825cb
 
+[Image of the earth by NASA on Unsplash]("data/images/nasa-vhSz50AaFAs-unsplash.jpg")
+
 ## Data
 
 |Indicator|Source|
