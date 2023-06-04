@@ -1,23 +1,18 @@
 name: temp_anomaly
 
 dependencies:
-- matplotlib=3.5.1
+- matplotlib
 - numpy
-- pandas=1.4.1
-- shapely
-- geopandas>=0.9.0
-- networkx=2.6.3
-- plotly>=4.14.3
+- pandas
+- cartopy
+- geopandas
 - openpyxl=3.0.9
 - pygraphviz=1.9
 - xarray=0.20.1
 - dask=2022.02.1
-- bottleneck=1.3.4
 - ipykernel
-- plotly=5.9.0
 - pip
 - pip:
-  - graphviz==0.20
   - basemap==1.3.3
   - pandas_datareader==0.10.0
   - jupyter
